@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://urimaoxo.github.io/CEQ/sitemap_index.txt
+Sitemap: https://urimaoxo.github.io/Obo/sitemap_index.txt
+Sitemap: https://urimaoxo.github.io/XDe/sitemap_index.txt
+Sitemap: https://urimaoxo.github.io/umC/sitemap_index.txt
